@@ -1,0 +1,9 @@
+1. Tomcat inditasa
+	Blekell menni az apache\bin mappaba
+	Ott beirni h startup.bat --> elindul
+2. Forditas
+	javac -d classes src/test/TestServlet.java
+	elsõnek hibat dob de van egy file a az 	apache/lib/servlet-api.jar.Ezt bemasolod ide:
+	 c:\Program Files\Java\jdk1.8.0_172\jre\lib\ext\ 
+3.
+
